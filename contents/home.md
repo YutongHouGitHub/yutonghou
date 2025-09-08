@@ -1,5 +1,7 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
 
 I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
 
