@@ -1,18 +1,23 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/YutongHouGitHub/YutongHouGitHub)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/yutonghou2005)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail)](mailto:yutonghou@stu.xjtu.edu.cn)
-[![Phone](https://img.shields.io/badge/Phone-25D366?logo=whatsapp)](tel:+86 191 3782 0536)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-red?logo=linkedin)](https://www.linkedin.com/in/yutonghou2005)
+[![Email](https://img.shields.io/badge/Email-green?logo=gmail)](mailto:yutonghou@stu.xjtu.edu.cn)
+[![Phone](https://img.shields.io/badge/Phone-gray?logo=whatsapp)](https://wa.me/0086 191 3782 0536)
+[![Location](https://img.shields.io/badge/Location-FF6F61?logo=maps&logoColor=white)](https://maps.app.goo.gl/v1MaFk22iVrq6fYj7)
 
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
-
+Mr. (Yutong) Hou
+UNDER CONSTRUCTION
 ### Education  
-**Xi'an Jiaotong University**, M.S., 2023-present  
-• GPA: XX/XX  
+**CentraleSupélec, Université Paris-Saclay**, Master's degree in General Engineering, 2025.9-present <br>  
 
-**CentraleSupélec, Université Paris-Saclay**, Master's degree in General Engineering, 2025-present <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**Westlake University**, Visiting Student, 2025.8 <br> 
+School of Engineering
 
+**University of Macau**, Visiting Student, 2025.7 <br> 
+State Key Laboratory of Internet of Things for Smart City
+
+**Xi'an Jiaotong University**, M.S., 2023.9-2025.6  
+Qianxuesen Honor College & School of Energy and Power Engineering
 
 ### Research Interests  
-XX, XX, XX, XX.
+(Thermal & Electricity) Energy Storge, Heat Transfer Process, Solar Power Plant, Computational Fluid Dynamics(CFD) 
