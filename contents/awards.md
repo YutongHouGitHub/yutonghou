@@ -6,7 +6,7 @@ Ministry of Education of the People's Republic of China, Certificate No. BZK2024
 ##### \[2\]France Excellence Eiffel Scholarship
 French Ministry for Europe and Foreign Affairs, Certificate No. 176539R, Awarded: Apr. 2025.
 ##### \[3\]Academician Chen Xuejun Fund – Chen Xuejun Yuandanqing Inspirational Scholarship (2023–2024)
-National Key Laboratory of Green Hydrogen and Power (formerly National Key Laboratory of Multiphase Flow in Power Engineering), Awarded: Jul. 2025.
+National Key Laboratory of Green Hydrogen and Power (formerly State Key Laboratory of Multiphase Flow in Power Engineering), Awarded: Jul. 2025.
 ##### \[4\]New Era Youth Pioneer
 Communist Youth League Committee of Xi’an Jiaotong University, Awarded: May 2025.
 ##### \[5\]Outstanding Student

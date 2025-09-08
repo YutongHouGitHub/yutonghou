@@ -1,10 +1,20 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **Research Intern**  
+**May 2024 – May 2025 | State Key Laboratory of Multiphase Flow in Power Engineering**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+UNDER CONSTRUCTION
 
 #### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+- UNDER CONSTRUCTION.  
+- UNDER CONSTRUCTION.  
+- UNDER CONSTRUCTION.  
+
+### **Project Leader**  
+**May 2025 – present | Key Laboratory of Thermo-Fluid Science and Engineering of Ministry of Education**  
+
+UNDER CONSTRUCTION
+
+#### Key Contributions:  
+- UNDER CONSTRUCTION.  
+- UNDER CONSTRUCTION.  
+- UNDER CONSTRUCTION.  
 
