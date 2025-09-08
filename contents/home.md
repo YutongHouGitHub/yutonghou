@@ -1,7 +1,7 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/YutongHouGitHub/YutongHouGitHub)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-red?logo=linkedin)](https://www.linkedin.com/in/yutonghou2005)
 [![Email](https://img.shields.io/badge/Email-green?logo=gmail)](mailto:yutonghou@stu.xjtu.edu.cn)
-[![Phone](https://img.shields.io/badge/Phone-gray?logo=whatsapp)](https://wa.me/0086 191 3782 0536)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp)](https://wa.me/8619137820536)
 [![Location](https://img.shields.io/badge/Location-FF6F61?logo=maps&logoColor=white)](https://maps.app.goo.gl/v1MaFk22iVrq6fYj7)
 
 
