@@ -108,9 +108,6 @@ section .main-body{
         margin: 0;
     }
 }
-/* ---------- 新增：让 main-body 下的文本两端对齐 ---------- */
-.main-body {
-    text-align: justify;
-    text-align-last: justify; /* 保证最后一行也两端对齐 */
-}
+
+
 
