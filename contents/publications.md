@@ -6,6 +6,8 @@
 ### Conference
 \[1\]**Hou Y.**, Yang S., Zhang Y.,Cheng Z., & Zhang X.. (2025, Oct. 30–Nov. 3). Thermal-mechanical coupling and aiming strategy of high-temperature chloride salt solar receiver during cold start-up. Paper submitted for presentation at the Annual Conference of the Chinese Society of Engineering Thermophysics (CSETP), Beijing, China. *Manuscript under review*.
 ### Patent
-\[1\]Deng, L., Yan, R., Ye, N., **Hou, Y.**, Ma, J., Xu, X., & Che, D. (2024). *A coal and biomass co-firing peak-shaving system and method for power grids* (Chinese Invention Patent No. 202411891549.4). Granted.
+\[1\]Deng, L., Yan, R., Ye, N., **Hou, Y.**, Ma, J., Xu, X., & Che, D. (2024). *A coal and biomass co-firing peak-shaving system and method for power grids* (China Patent Application No. 202411891549.4). Granted.
 
-\[2\]Zhou, X., Hu, B., **Hou, Y.**, Yi, W., Gao, R., & Chen, W. (2025). *A vanadium redox flow battery capacity recovery device based on automatic control of online charge–discharge monitoring* (Chinese Utility Model Patent No. 202520770158.0).
+\[2\]Zhou, X., Hu, B., **Hou, Y.**, Yi, W., Gao, R., & Chen, W. (2025). *A vanadium redox flow battery capacity recovery device based on automatic control of online charge–discharge monitoring* (China Patent Application No. 202520770158.0).
+
+\[3\]Yang, S., Zhang, X., **Hou, Y.**, Chang, L., Chang, T., & Ren, P. (2025). *A heat transfer enhancement design method for solar absorbers based on effective flow absorptivity* (China Patent Application No. 202511283030.2). 
