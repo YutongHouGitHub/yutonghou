@@ -29,7 +29,7 @@ State Key Laboratory of Internet of Things for Smart City, University of Macau, 
 National Energy Storage Technology Industry–Education Integration Innovation Platform (Center), Xi’an Jiaotong University, 2024.10 <br> 
 
 <div style="display: flex; gap: 5%; justify-content: center;">
-  <figure style="text-align: center; flex: 2.84;">
+  <figure style="text-align: center; flex: 5.056;">
     <img src="static/assets/img/7.jpg" alt="1" style="width:95%;">
   </figure>
 
