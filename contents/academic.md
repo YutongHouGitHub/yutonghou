@@ -34,6 +34,6 @@ National Energy Storage Technology Industry–Education Integration Innovation P
   </figure>
 
   <figure style="text-align: center; flex: 1;">
-    <img src="static/assets/img/6.png" alt="2" style="width:95%;">
+    <img src="static/assets/img/6.jpg" alt="2" style="width:95%;">
   </figure>
 </div>
