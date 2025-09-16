@@ -1,6 +1,5 @@
-**Westlake University**, Visiting Student, 2025.8 <br> 
-School of Engineering
-
+**The 2025 Westlake International Symposium in Engineering** <br> 
+2025 Westlake University International Summer School on Electronic and Information Engineering,School of Engineering, Westlake University, 2025.8
 <div style="display: flex; gap: 20px; justify-content: center;">
   <figure style="text-align: center;">
     <img src="static/assets/img/2.jpg" alt="1" style="width:45%;">
@@ -12,8 +11,8 @@ School of Engineering
 
 </div>
 
-**University of Macau**, Visiting Student, 2025.7 <br> 
-State Key Laboratory of Internet of Things for Smart City
+**The 3rd SKL-l0TSC Summer Campfor Outstanding University Students**<br> 
+State Key Laboratory of Internet of Things for Smart City, University of Macau, 2025.7 <br> 
 
 <div style="display: flex; gap: 20px; justify-content: center;">
   <figure style="text-align: center;">
