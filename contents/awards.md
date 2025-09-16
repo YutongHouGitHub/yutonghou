@@ -15,6 +15,6 @@
 ### Competition Awards
 **2024 Mathematical Contest in Modeling (MCM)**,Honorable Mention, *Consortium for Mathematics and Its Applications (COMAP)*, Awarded: May 2024.
 
-**2024 National College Student English Competition (NECCS)**, 3^{rd} Prize,*College English Teaching & Research Association of China*, Awarded: May 2024.
+**2024 National College Student English Competition (NECCS)**, 3<sup>rd</sup> Prize,*College English Teaching & Research Association of China*, Awarded: May 2024.
 
-**16th National College Student Mathematics Competition, Individual Contest**, 1^{st} Prize(Provincial Level),*Chinese Mathematical Society*, Awarded: Dec. 2024.
+**16th National College Student Mathematics Competition**, 1<sup>st</sup> Prize(Provincial Level),*Chinese Mathematical Society*, Awarded: Dec. 2024.

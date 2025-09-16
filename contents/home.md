@@ -17,7 +17,7 @@ School of Engineering
 State Key Laboratory of Internet of Things for Smart City
 
 **Xi'an Jiaotong University**, M.S., 2023.9-2025.6  
-Qianxuesen Honor College & School of Energy and Power Engineering
+Qianxuesen Honor College & School of Energy and Power Engineering, Major: Energy storage science and engineering
 
 ### Research Interests  
 (Thermal & Electricity) Energy Storge, Heat Transfer Process, Solar Power Plant, Computational Fluid Dynamics(CFD) 
