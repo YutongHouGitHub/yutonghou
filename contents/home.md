@@ -12,7 +12,8 @@ Mr. (Yutong) Hou is an undergraduate student at the Qian Xuesen Honors College o
 
 
 **Xi'an Jiaotong University**, M.S., 2023.9-2025.6  
-Qianxuesen Honor College & School of Energy and Power Engineering, major in Energy storage science and engineering
+Qianxuesen Honor College & School of Energy and Power Engineering, major in Energy storage science and engineering.
+Maintained 1st rank in the major for two academic years.
 
 ### Research Interests  
-(Thermal & Electricity) Energy Storge, Heat Transfer Process, Solar Power Plant, Computational Fluid Dynamics(CFD) 
+(Thermal & Electricity) Energy Storge, Heat Transfer Process, Solar Power Plant, Computational Fluid Dynamics(CFD).
