@@ -5,7 +5,7 @@
 [![Location](https://img.shields.io/badge/Location-FF6F61?logo=maps&logoColor=white)](https://maps.app.goo.gl/v1MaFk22iVrq6fYj7)
 
 
-Mr. (Yutong) Hou is an undergraduate student at the Qian Xuesen Honors College of Xi’an Jiaotong University, currently pursuing a Master's degree in General Engineering at CentraleSupélec,Université Paris-Saclay, France. 
+Mr. (Yutong) Hou is an undergraduate student at the Qian Xuesen Honors College of Xi’an Jiaotong University, currently pursuing a Master's degree in General Engineering at CentraleSupélec,Université Paris-Saclay, France. Mr.Hou now is the (Student) Fellow of the Chinese Society of Engineering Thermodynamics, and his research interests include energy storage, solar power and general engineering.
 
 ### Education  
 **CentraleSupélec, Université Paris-Saclay**, Master's degree in General Engineering, 2025.9-present <br>  
