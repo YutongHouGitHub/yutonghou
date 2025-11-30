@@ -11,8 +11,9 @@ Mr. (Yutong) Hou is an undergraduate student at the Qian Xuesen Honors College o
 **CentraleSupélec, Université Paris-Saclay**, Master's degree in General Engineering, 2025.9-present <br>  
 
 
-**Xi'an Jiaotong University**, M.S., 2023.9-2025.6  
+**Xi'an Jiaotong University**, B.S., 2023.9-2025.6  
 Qianxuesen Honor College & School of Energy and Power Engineering, major in Energy storage science and engineering.
+
 Ranked 1<sup>st</sup> and 3<sup>rd</sup> in the first and second academic year.
 
 ### Research Interests  

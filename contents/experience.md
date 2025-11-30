@@ -6,5 +6,6 @@ Research on Carbon Reduction Power Generation Technology of Sandy Willow Biomass
 ### **Project Leader**
 **May 2025 – present | Key Laboratory of Thermo-Fluid Science and Engineering of Ministry of Education**  
 Research on Integrated Regulation Strategies for Non-Uniform Thermal Stress Distribution in Next-Generation High-Temperature Molten Salt Tower Receivers
-Funded by the Ministry of Education of China with a grant of RMB 8,000.
+
+National Training Program of Innovation and Entrepreneurship for Undergraduates (Grant No. 202510698135), funded by the Ministry of Education of China with a grant of ￥8,000.
 
